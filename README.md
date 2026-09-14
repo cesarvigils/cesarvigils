@@ -1,6 +1,5 @@
 <div align="center">
   
-# Cesar Vigil
 
 ### Full-Stack Developer · Systems · Simracing · CyberSec
 
