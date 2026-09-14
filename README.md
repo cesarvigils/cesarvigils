@@ -5,8 +5,8 @@
 
 I build web platforms, backend systems, automation and motorsport technology.
 
-[![Current Project](https://img.shields.io/badge/Website-FF8B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inerciahn.com)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Current Project](https://img.shields.io/badge/Project-FF8B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inerciahn.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cesarvigils)
 
 </div>
 
