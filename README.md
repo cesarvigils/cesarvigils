@@ -23,7 +23,7 @@ Im also a simracer, working with **Artemis Esports**
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,firebase,vercel,git,github,vscode,kotlin,flutter,ts,c++" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,firebase,vercel,git,github,vscode,kotlin,flutter,ts,java" />
 </p>
 
 ---
