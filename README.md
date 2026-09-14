@@ -1,6 +1,8 @@
 <div align="center">
 # Cesar Vigil
+
 ### Full-Stack Developer · Systems · Simracing · CyberSec
+
 I build web platforms, backend systems, automation and motorsport technology.
 
 [![Current Project](https://img.shields.io/badge/Website-FF8B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inerciahn.com)
